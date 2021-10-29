@@ -29,7 +29,7 @@ public class Test {
       System.out.println("size:"+rq.getSize());
     }
     if(inputs[0].equals("empty")){
-      System.out.println("size:"+rq.isEmpty());
+      System.out.println("empty:"+rq.isEmpty());
     }
     if(inputs[0].equals("p1")){
       System.out.println("p1:"+rq.process());
