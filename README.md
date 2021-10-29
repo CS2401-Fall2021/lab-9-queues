@@ -7,7 +7,7 @@ In this lab you will be modeling a system that handles requests. However your sy
 * There a high-priority and low-priority requests. Your system should respond to the high-priority requests before any of the low-priority requests
 ## Part 1: Request.java (10pts)
 Define a Class Request in Request.java to have a String message and a boolean isHighPriority. Include the following method:
-* Public void printQuery() which prints out "Handling This Query: " + Query's message.
+* Public void printRequest() which prints out "Handling Request:" + this request's message.
 
 ## Part 2: Node.java (5 pts)
 Define a Class Node which has the following fields:
