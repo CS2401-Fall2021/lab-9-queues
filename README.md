@@ -30,7 +30,7 @@ Remember:
 3) You should remove a maximum of 6 requests in a single Process() call.
 
 ## Part 4: ModelRequests.java main() method. (30 pts)
-This is where you will implement your tests of RequestQueue's methods. There is already one example. Make sure you
+This is where you will implement your tests of RequestQueue's methods. There should be two (distinct) tests per method in addition to the existing example. Make sure you:
 * Describe what you are testing in a comment
 * Identify input
 * Describe the expected output
