@@ -8,6 +8,7 @@ In this lab you will be modeling a system that handles requests. However your sy
 ## Part 1: Request.java (5pts, 5 lines of code)
 Define a Class Request in Request.java to have a String message and a boolean isHighPriority. Include the following method:
 * Public void printRequest() which prints out "Handling Request:" + this request's message.
+> Important: make sure you print out the message exactly as mispelling/missing punctuation will result in failed autograders.
 
 ## Part 2: Node.java (5 pts, 5 lines of code)
 Define a Class Node which has the following fields:
